@@ -1,0 +1,7 @@
+# Commands
+git init -> To initialize git
+git add file_name -> To add the file into staging area
+git commit -m "message" -> To commit the file to the git vcs with message
+git diff -> To see the difference
+git status -> To know the status
+git log -> To see the log details
